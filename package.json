@@ -1,0 +1,22 @@
+{
+  "name": "vda",
+  "version": "0.0.2",
+  "description": "A command-line tool for project management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "add": "/bin/add/index.js"
+  },
+  "author": "Daibin Li",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdouara13/vda.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sdouara13/vda/issues"
+  },
+  "homepage": "https://github.com/sdouara13/vda#readme"
+}
